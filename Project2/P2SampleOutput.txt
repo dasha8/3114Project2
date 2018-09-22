@@ -1,0 +1,27 @@
+|Darth Vader| not deleted because it does not exist in the Reviewer database.
+|Death Note| not deleted because it does not exist in the Movie database.
+Movies:
+Total records: 0
+Reviewers:
+Total records: 0
+Rating added: |John Doe|, |Spirited Away|, 9
+|John Doe| not deleted because it does not exist in the Movie database.
+|John Doe| has been deleted from the Reviewer database.
+|Spirited Away| has been deleted from the Movie database.
+Bad score |0|. Scores must be between 1 and 10.
+Rating added: |Darth Vader|, |Death Note|, 1
+|Darth Vader| has been deleted from the Reviewer database.
+Rating added: |Darth Vader|, |Death Note|, 5
+Rating added: |Darth Vader|, |Death Note|, 1
+|Death Note| has been deleted from the Movie database.
+Rating added: |Darth Vader|, |Death Note|, 1
+Rating added: |David Lynch|, |Twin Peaks Returns|, 10
+Movies:
+|Twin Peaks Returns| 2
+|Death Note| 4
+Total records: 2
+Reviewers:
+|David Lynch| 0
+|Darth Vader| 4
+Total records: 2
+Rating added: |David Lynch|, |Death Note|, 2

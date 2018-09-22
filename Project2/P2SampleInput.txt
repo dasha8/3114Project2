@@ -1,0 +1,40 @@
+   delete   reviewer Darth   Vader
+   delete movie    		Death  Note
+   print hashtable movie
+   print    hashtable   reviewer
+   print   ratings
+   list   reviewer   Darth Vader
+   list   movie Death Note
+   similar reviewer Darth Vader
+   similar movie Death Note
+   add John Doe<SEP>Spirited Away<SEP>9
+   delete movie John Doe
+   delete reviewer  John Doe
+   delete movie Spirited Away
+   add Christopher Nolan<SEP>Batman v Superman<SEP>0
+    add Darth Vader<SEP>Death Note<SEP>1
+   delete reviewer Darth Vader
+   print ratings
+       add Darth Vader<SEP>Death Note<SEP>5
+            add Darth Vader<SEP>Death Note<SEP>1  
+   similar reviewer Darth Vader
+   similar movie Death Note
+   delete movie Death Note
+   
+   list reviewer Darth Vader
+       add Darth Vader<SEP>Death Note<SEP>1
+       add David Lynch<SEP>Twin Peaks Returns<SEP>10
+print ratings
+print hashtable movie
+print hashtable reviewer
+       
+       similar reviewer Darth Vader
+       similar movie Death Note
+ add David Lynch<SEP>Death Note<SEP>2
+ print ratings
+ similar reviewer Darth Vader
+ 
+       
+  
+  
+   
